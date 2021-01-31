@@ -1,24 +1,14 @@
-# Carrinho Flutuante
+# Floating Cart
 
+Floating Cart (Floating Cart) in VQMOD for OpenCart
 
-> Carrinho Flutuante (Floating Cart) em VQMOD para Opencart
-Quando você rolar a página para baixo o carrinho aparece com as informações!
+When you scroll the page down the cart appears with the information!
 
+VQMOD Installation Guide on Opencart
 
-
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/sincromaster/carrinho-flutuante/blob/master/LICENSE)
-
-FIXED:<br>
-Corrigido o bug das opções obrigatórias do produto<br>
-Corrigido conflito de jquery<br>
-Corrigido o bug do produto sem desconto( O carrinho não aparecia quando o produto tinha desconto)
-
-
-Guia de instalação do O vqmod no Opencart
 http://www.opencartbrasil.com.br/artigos/conheca-vqmod/
 
 https://github.com/apophis-cms/carrinho-flutuante
 
-
-Creditos: 
+Credits:
 Jano Sousa / Luiz Eduardo Monteiro
