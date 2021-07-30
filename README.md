@@ -8,7 +8,7 @@ VQMOD Installation Guide on Opencart
 
 http://www.opencartbrasil.com.br/artigos/conheca-vqmod/
 
-https://github.com/apophis-cms/carrinho-flutuante
+https://github.com/sincromaster/carrinho-flutuante
 
 Credits:
 Jano Sousa / Luiz Eduardo Monteiro
